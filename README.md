@@ -13,4 +13,4 @@ More @ http://wiki.ecmascript.org/doku.php?id=harmony:proxies
 
 Why it does not work on any browser?
 ------------------------------------
-I don't know.
+It works on nidium browser.
